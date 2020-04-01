@@ -1,4 +1,6 @@
-Ces librairies peuvent être installées en utilisant la commande suivante :
+# Bluettoth
+
+#### Installation
 
 ```
 sudo apt-get update && sudo apt-get install bluez libbluetooth-dev

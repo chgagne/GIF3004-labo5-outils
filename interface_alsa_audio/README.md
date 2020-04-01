@@ -1,3 +1,5 @@
+# Alsa
+
 #### Lecture du son sur le port HDMI
 
 Puisque le Raspberry Pi Zero ne possède pas de sortie audio, nous pouvons utiliser le port HDMI. Il sera donc nécessaire de décommenter la ligne `hdmi_drive=2` dans le fichier */boot/config.txt* du Pi qui va envoyer le son aux haut-parleurs. Assurez-vous de redémarrer ce dernier avant de continuer.
