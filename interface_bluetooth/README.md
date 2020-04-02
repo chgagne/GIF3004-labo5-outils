@@ -1,4 +1,4 @@
-# Bluettoth
+# Bluetooth
 
 #### Installation
 
